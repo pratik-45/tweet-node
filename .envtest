@@ -1,0 +1,5 @@
+HOST=localhost
+DBNAME=sweeter
+DBUSER=root
+DBPASS=
+PORT=3002
